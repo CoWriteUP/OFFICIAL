@@ -25,5 +25,5 @@ CoWriteUP/[OWN_DIRECTORY]/[CTF_NAME]/[CHALLANGE_NAME]
 
 **Please Check The file ["Template.md"][identifier1] and ["My First Blog"][identifier2] directory. It will help you how to use .md file**
 
-[identifier1]: https://github.com/CoWriteUP/OFFICIAL/edit/master/template.md
+[identifier1]: https://github.com/CoWriteUP/OFFICIAL/blob/master/template.md
 [identifier2]: https://github.com/CoWriteUP/OFFICIAL/tree/master/My%20First%20Blog
