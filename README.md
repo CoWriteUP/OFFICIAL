@@ -2,7 +2,6 @@
 Ofiicial Directory is Team's Shared Directory
 This Directory will Update when Team had a conference
 
-## Official Directory have the file path like below
 CoWriteUP/OFFICIAL/[DATE]/[CHALLANGE_or_ANNOUNCE]/[FILES]
 >  ex) CoWriteUP/OFFICIAL/20200122/SCTF_Challange_1/write_up
 
