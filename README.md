@@ -13,3 +13,6 @@ CoWriteUP/OFFICIAL/[DATE]/[CHALLANGE_or_ANNOUNCE]/[FILES]
 The File Path should be made like this
 CoWriteUP/[OWN_DIRECTORY]/[CTF_NAME]/[CHALLANGE_NAME]
 > ex) CoWriteUP/[OWN_DIRECTORY]/STEM CTF Cyber Challenge 2019/My First Blog
+
+Please Check The file "Template.md" and "" directory
+It will help you how to use .md file
