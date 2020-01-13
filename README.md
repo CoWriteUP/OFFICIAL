@@ -19,5 +19,4 @@ CoWriteUP/[OWN_DIRECTORY]/[CTF_NAME]/[CHALLANGE_NAME]
 
 
 
-Please Check The file "Template.md" and "My First Blog" directory
-It will help you how to use .md file
+\textcolor{Please Check The file "Template.md" and "My First Blog" directory. It will help you how to use .md file}{red}
