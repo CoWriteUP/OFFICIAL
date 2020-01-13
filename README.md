@@ -1,4 +1,4 @@
-# OFFICIAL
+# OFFICIAL DIRECTORY
 This is Official Directory
 
 Ofiicial Directory will Update when CoWriteUP Team had our own conference
@@ -9,7 +9,7 @@ Official Directory have the file path like below
   
   ex) CoWriteUP/OFFICIAL/20200122/SCTF_Challange_1/write_up
 
-For Members
+# For Members
 
 1. Make Your OWN Directory like DPLOY707's_WriteUP
 2. Write your Write-up in your OWN Directory
