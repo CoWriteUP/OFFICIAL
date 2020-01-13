@@ -9,7 +9,7 @@ CoWriteUP/OFFICIAL/[DATE]/[CHALLANGE_or_ANNOUNCE]/[FILES]
 
 ## For Members
 
-1. Make Your OWN Directory like DPLOY707's_WriteUP
+1. Make Your OWN Directory like DPLOY707_WriteUP
 2. Write your Write-up in your OWN Directory
 
 The File Path should be made like this
