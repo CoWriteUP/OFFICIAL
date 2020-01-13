@@ -23,6 +23,7 @@ CoWriteUP/[OWN_DIRECTORY]/[CTF_NAME]/[CHALLANGE_NAME]
 <br>
 <!-- blank line -->
 
-[Please Check The file "Template.md" and "My First Blog" directory. It will help you how to use .md file][identifier]
+**Please Check The file ["Template.md"][identifier1] and ["My First Blog"][identifier2] directory. It will help you how to use .md file**
 
-[identifier]: http://example1.com
+[identifier1]: http://example1.com
+[identifier2]: http://example1.com
